@@ -14,5 +14,3 @@ source activate pyCHX
 pip install -r https://raw.githubusercontent.com/NSLS-II-CHX/pyCHX/master/requirements.txt
 pip install git+https://github.com/NSLS-II-CHX/pyCHX
 ```
-
-Test for auto update to JupyterHub
